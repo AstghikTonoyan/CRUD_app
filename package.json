@@ -1,0 +1,21 @@
+{
+  "name": "crud",
+  "version": "0.0.1",
+  "description": "group 1 crud application",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json -p 8888 -w true"
+  },
+  "keywords": [
+    "crud",
+    "fetch",
+    "native",
+    "js",
+    "todo"
+  ],
+  "author": "astghik",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
